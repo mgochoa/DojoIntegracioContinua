@@ -6,7 +6,7 @@ var assert = require('should');
 describe('appempic', function () {
 
   it('El nombre debe ser Manuel', function () {
-    appempic.getName().should.equal('Manuel');
+    appempic.getName().should.equal('Manuel1');
   });
   it('El apellido debe ser Ochoa', function () {
     appempic.getLastName().should.equal('Ochoa');
