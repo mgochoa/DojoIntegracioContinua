@@ -1,7 +1,8 @@
+# DojoIntegracioContinua
 # appempic 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
 
-The best module ever.
+Manuel Ochoa Loaiza
 
 
 ## Install
@@ -42,4 +43,4 @@ Copyright (c) 2016 Jonathan Diosa. Licensed under the MIT license.
 [daviddm-image]: https://david-dm.org/jadiosa/appempic
 [coveralls-url]: https://coveralls.io/r/jadiosa/appempic
 [coveralls-image]: https://coveralls.io/repos/jadiosa/appempic/badge.png
-# DojoIntegracioContinua
+
